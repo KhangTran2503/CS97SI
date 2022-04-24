@@ -15,7 +15,7 @@
   - [x] 7. [Adding Reversed Numbers](http://poj.org/problem?id=1504)
   - [x] 8. [Manhattan 2025](http://poj.org/problem?id=1806)
   - [ ] 9. [Exponentiation](http://poj.org/problem?id=1001)
-  - [ ] 10. [Ride to School](http://poj.org/problem?id=1922)
+  - [x] 10. [Ride to School](http://poj.org/problem?id=1922)
   - [ ] 11. [Big Square](http://poj.org/problem?id=3251)
   - [ ] 12. [Hotline](http://poj.org/problem?id=1403)
 
