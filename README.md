@@ -51,10 +51,10 @@
 
 - [ ] **4. Dynamic Programming (DP):**
   - [x] 1. [Tri Tiling](http://poj.org/problem?id=2663)
-  - [ ] 2. [The Triangle](http://poj.org/problem?id=1163)
-  - [ ] 3. [Post Office](http://poj.org/problem?id=1160)
+  - [x] 2. [The Triangle](http://poj.org/problem?id=1163)
+  - [x] 3. [Post Office](http://poj.org/problem?id=1160)
   - [ ] 4. [Alphacode](http://poj.org/problem?id=2033)
-  - [ ] 5. [Palindrome](http://poj.org/problem?id=1159)
+  - [x] 5. [Palindrome](http://poj.org/problem?id=1159)
   - [ ] 6. [To the Max](http://poj.org/problem?id=1050)
   - [ ] 7. [Greatest Common Increasing Subsequence](http://poj.org/problem?id=2127)
   - [ ] 8. [Balancing Act](http://poj.org/problem?id=1655)
